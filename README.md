@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikerevy
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, SQL, Statistics
 
 
 <!---
